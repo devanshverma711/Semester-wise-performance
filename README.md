@@ -1,2 +1,4 @@
 # Semester-wise-performance
 contains graphs,piechart
+Perform following operations on the DF:                                                                                                                                            1. calculate total marks of each student                                                                                                                                            2. calculate % of each student                                                                                                                                                      3. plot (bar and line graph) total  and % of each student(show value on each bar top)                                                                    4. add column 'result' 4. 4. showing status as pass/fail 
+5. generate semester wise pie chart for result
